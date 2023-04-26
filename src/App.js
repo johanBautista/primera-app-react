@@ -1,5 +1,5 @@
-import './App.css';
-import Wordle from './components/Wordle';
+import "./App.css";
+import Wordle from "./components/Wordle";
 
 function App() {
   return (
